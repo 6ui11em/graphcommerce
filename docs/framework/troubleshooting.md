@@ -19,6 +19,12 @@ MAGENTO_ENDPOINT environment variable is not pointing to a Magento graphql
 endpoint
 
 ```bash
+🕸️ - m2 Failed to generate the schema Error: Failed to fetch introspection from ...: Error: unable to verify the first certificate
+```
+
+Define environment variable NODE_TLS_REJECT_UNAUTHORIZED=0 in your .env file in the root directory of your project
+
+```bash
 [next] error - Error: Unexpected token < in JSON at position 0
 ```
 
