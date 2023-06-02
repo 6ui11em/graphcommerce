@@ -1,5 +1,51 @@
 # Change Log
 
+## 6.2.0-canary.33
+
+## 6.2.0-canary.32
+
+## 6.2.0-canary.31
+
+## 6.2.0-canary.30
+
+## 6.2.0-canary.29
+
+## 6.2.0-canary.28
+
+## 6.2.0-canary.27
+
+## 6.2.0-canary.26
+
+## 6.2.0-canary.25
+
+## 6.2.0-canary.24
+
+## 6.2.0-canary.23
+
+## 6.2.0-canary.22
+
+## 6.2.0-canary.21
+
+## 6.2.0-canary.20
+
+## 6.2.0-canary.19
+
+## 6.2.0-canary.18
+
+## 6.2.0-canary.17
+
+## 6.2.0-canary.16
+
+### Patch Changes
+
+- [#1930](https://github.com/graphcommerce-org/graphcommerce/pull/1930) [`c8d023e9e`](https://github.com/graphcommerce-org/graphcommerce/commit/c8d023e9e874131cd9f8fe192b1fca5fe1a26ee3) - Fix the close menu on search and add the option to secondary menu items ([@StefanAngenent](https://github.com/StefanAngenent))
+
+## 6.2.0-canary.15
+
+## 6.2.0-canary.14
+
+## 6.2.0-canary.13
+
 ## 6.2.0-canary.12
 
 ## 6.2.0-canary.11

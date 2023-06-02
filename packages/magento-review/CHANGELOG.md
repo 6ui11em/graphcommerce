@@ -1,5 +1,51 @@
 # Change Log
 
+## 6.2.0-canary.33
+
+## 6.2.0-canary.32
+
+## 6.2.0-canary.31
+
+## 6.2.0-canary.30
+
+## 6.2.0-canary.29
+
+## 6.2.0-canary.28
+
+## 6.2.0-canary.27
+
+## 6.2.0-canary.26
+
+## 6.2.0-canary.25
+
+### Patch Changes
+
+- [#1944](https://github.com/graphcommerce-org/graphcommerce/pull/1944) [`f0ccbb117`](https://github.com/graphcommerce-org/graphcommerce/commit/f0ccbb11797c501022f0667ff8851ba8c06b02fc) - Remove the Cancel button from the review page, as that pattern isn't really used in the app. ([@paales](https://github.com/paales))
+
+## 6.2.0-canary.24
+
+## 6.2.0-canary.23
+
+## 6.2.0-canary.22
+
+## 6.2.0-canary.21
+
+## 6.2.0-canary.20
+
+## 6.2.0-canary.19
+
+## 6.2.0-canary.18
+
+## 6.2.0-canary.17
+
+## 6.2.0-canary.16
+
+## 6.2.0-canary.15
+
+## 6.2.0-canary.14
+
+## 6.2.0-canary.13
+
 ## 6.2.0-canary.12
 
 ## 6.2.0-canary.11

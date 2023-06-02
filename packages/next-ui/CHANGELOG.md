@@ -1,5 +1,63 @@
 # Change Log
 
+## 6.2.0-canary.33
+
+## 6.2.0-canary.32
+
+## 6.2.0-canary.31
+
+## 6.2.0-canary.30
+
+## 6.2.0-canary.29
+
+### Patch Changes
+
+- [#1946](https://github.com/graphcommerce-org/graphcommerce/pull/1946) [`87260618b`](https://github.com/graphcommerce-org/graphcommerce/commit/87260618b8abaebd727ff4435abb1aea6ed33730) - Firefox: scroll snap overlays would snap to 0 when the scroll snap targets wouldn’t exactly match the possible targets. ([@paales](https://github.com/paales))
+
+## 6.2.0-canary.28
+
+## 6.2.0-canary.27
+
+## 6.2.0-canary.26
+
+## 6.2.0-canary.25
+
+## 6.2.0-canary.24
+
+## 6.2.0-canary.23
+
+## 6.2.0-canary.22
+
+### Patch Changes
+
+- [#1939](https://github.com/graphcommerce-org/graphcommerce/pull/1939) [`0cdccf681`](https://github.com/graphcommerce-org/graphcommerce/commit/0cdccf6817d6a769f59cccb68b1b1b8b4405cbd0) - Make blogListItem date prop optional ([@JoshuaS98](https://github.com/JoshuaS98))
+
+## 6.2.0-canary.21
+
+## 6.2.0-canary.20
+
+## 6.2.0-canary.19
+
+## 6.2.0-canary.18
+
+## 6.2.0-canary.17
+
+### Patch Changes
+
+- [#1934](https://github.com/graphcommerce-org/graphcommerce/pull/1934) [`96ac0320a`](https://github.com/graphcommerce-org/graphcommerce/commit/96ac0320a30bc55a6db5d46663d28b552fda4db6) - Fixed floating overlays not closing when clicking beside the overlay ([@bramvanderholst](https://github.com/bramvanderholst))
+
+## 6.2.0-canary.16
+
+### Patch Changes
+
+- [#1930](https://github.com/graphcommerce-org/graphcommerce/pull/1930) [`c8d023e9e`](https://github.com/graphcommerce-org/graphcommerce/commit/c8d023e9e874131cd9f8fe192b1fca5fe1a26ee3) - Fix the close menu on search and add the option to secondary menu items ([@StefanAngenent](https://github.com/StefanAngenent))
+
+## 6.2.0-canary.15
+
+## 6.2.0-canary.14
+
+## 6.2.0-canary.13
+
 ## 6.2.0-canary.12
 
 ## 6.2.0-canary.11

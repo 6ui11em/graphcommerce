@@ -115,6 +115,7 @@ export function ScrollerProvider(props: ScrollerProviderProps) {
   const enableSnap = useCallback(() => {
     if (snap.get() === true) return
     if (scrollerRef.current) scrollerRef.current.style.scrollSnapType = ''
+
     snap.set(true)
     scroll.animating.set(false)
   }, [snap, scroll])

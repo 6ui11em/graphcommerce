@@ -1,5 +1,51 @@
 # Change Log
 
+## 6.2.0-canary.33
+
+## 6.2.0-canary.32
+
+## 6.2.0-canary.31
+
+## 6.2.0-canary.30
+
+## 6.2.0-canary.29
+
+## 6.2.0-canary.28
+
+### Patch Changes
+
+- [#1948](https://github.com/graphcommerce-org/graphcommerce/pull/1948) [`17390af4f`](https://github.com/graphcommerce-org/graphcommerce/commit/17390af4f9d4a73c11c857b92eeb05ae185da9da) - Allow the redirect prop of AddProductsToCartForm to be false, so redirects can be disabled ([@bramvanderholst](https://github.com/bramvanderholst))
+
+## 6.2.0-canary.27
+
+## 6.2.0-canary.26
+
+## 6.2.0-canary.25
+
+## 6.2.0-canary.24
+
+## 6.2.0-canary.23
+
+## 6.2.0-canary.22
+
+## 6.2.0-canary.21
+
+## 6.2.0-canary.20
+
+## 6.2.0-canary.19
+
+## 6.2.0-canary.18
+
+## 6.2.0-canary.17
+
+## 6.2.0-canary.16
+
+## 6.2.0-canary.15
+
+## 6.2.0-canary.14
+
+## 6.2.0-canary.13
+
 ## 6.2.0-canary.12
 
 ## 6.2.0-canary.11

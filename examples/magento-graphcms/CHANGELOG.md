@@ -1,5 +1,59 @@
 # Change Log
 
+## 6.2.0-canary.33
+
+## 6.2.0-canary.32
+
+### Patch Changes
+
+- [#1949](https://github.com/graphcommerce-org/graphcommerce/pull/1949) [`3b9ae16cb`](https://github.com/graphcommerce-org/graphcommerce/commit/3b9ae16cb6ec366a3a762363f020bf888bb81ac6) - In some cases the getStaticPaths values were send to the client and stored in the local storage ([@paales](https://github.com/paales))
+
+## 6.2.0-canary.31
+
+### Patch Changes
+
+- [#1936](https://github.com/graphcommerce-org/graphcommerce/pull/1936) [`2869ac874`](https://github.com/graphcommerce-org/graphcommerce/commit/2869ac87401d5f00f41cfc9d976fd2c2b23ffac3) - Added redirect for /customer/account so links in (transactional) emails function properly ([@bramvanderholst](https://github.com/bramvanderholst))
+
+## 6.2.0-canary.30
+
+## 6.2.0-canary.29
+
+## 6.2.0-canary.28
+
+## 6.2.0-canary.27
+
+## 6.2.0-canary.26
+
+## 6.2.0-canary.25
+
+## 6.2.0-canary.24
+
+## 6.2.0-canary.23
+
+## 6.2.0-canary.22
+
+## 6.2.0-canary.21
+
+## 6.2.0-canary.20
+
+## 6.2.0-canary.19
+
+### Patch Changes
+
+- [#1935](https://github.com/graphcommerce-org/graphcommerce/pull/1935) [`f88789698`](https://github.com/graphcommerce-org/graphcommerce/commit/f88789698098c20556a42c6317ccc5ce287002e2) - Added missing translation for "Sort" ([@bramvanderholst](https://github.com/bramvanderholst))
+
+## 6.2.0-canary.18
+
+## 6.2.0-canary.17
+
+## 6.2.0-canary.16
+
+## 6.2.0-canary.15
+
+## 6.2.0-canary.14
+
+## 6.2.0-canary.13
+
 ## 6.2.0-canary.12
 
 ## 6.2.0-canary.11

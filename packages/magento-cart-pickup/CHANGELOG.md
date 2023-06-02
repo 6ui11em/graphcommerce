@@ -1,5 +1,51 @@
 # Change Log
 
+## 6.2.0-canary.33
+
+### Patch Changes
+
+- [#1931](https://github.com/graphcommerce-org/graphcommerce/pull/1931) [`3b01c2bd7`](https://github.com/graphcommerce-org/graphcommerce/commit/3b01c2bd71ba62cc75f152aae627f610e15ab2b4) - Add explicit types to ActionCardListForm in PickupLocationForm to the `control` type is properly recognized ([@mikekeehnen](https://github.com/mikekeehnen))
+
+## 6.2.0-canary.32
+
+## 6.2.0-canary.31
+
+## 6.2.0-canary.30
+
+## 6.2.0-canary.29
+
+## 6.2.0-canary.28
+
+## 6.2.0-canary.27
+
+## 6.2.0-canary.26
+
+## 6.2.0-canary.25
+
+## 6.2.0-canary.24
+
+## 6.2.0-canary.23
+
+## 6.2.0-canary.22
+
+## 6.2.0-canary.21
+
+## 6.2.0-canary.20
+
+## 6.2.0-canary.19
+
+## 6.2.0-canary.18
+
+## 6.2.0-canary.17
+
+## 6.2.0-canary.16
+
+## 6.2.0-canary.15
+
+## 6.2.0-canary.14
+
+## 6.2.0-canary.13
+
 ## 6.2.0-canary.12
 
 ## 6.2.0-canary.11

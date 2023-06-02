@@ -1,5 +1,51 @@
 # Change Log
 
+## 6.2.0-canary.33
+
+## 6.2.0-canary.32
+
+## 6.2.0-canary.31
+
+## 6.2.0-canary.30
+
+## 6.2.0-canary.29
+
+## 6.2.0-canary.28
+
+## 6.2.0-canary.27
+
+## 6.2.0-canary.26
+
+## 6.2.0-canary.25
+
+## 6.2.0-canary.24
+
+## 6.2.0-canary.23
+
+## 6.2.0-canary.22
+
+## 6.2.0-canary.21
+
+## 6.2.0-canary.20
+
+## 6.2.0-canary.19
+
+### Patch Changes
+
+- [#1935](https://github.com/graphcommerce-org/graphcommerce/pull/1935) [`9bba82de1`](https://github.com/graphcommerce-org/graphcommerce/commit/9bba82de1a47742bd3c97b3bf3e4017b214f401d) - Show shipping method placeholder when no shipping methods are available yet, to allow shipping method validation to work before an address is filled out ([@bramvanderholst](https://github.com/bramvanderholst))
+
+## 6.2.0-canary.18
+
+## 6.2.0-canary.17
+
+## 6.2.0-canary.16
+
+## 6.2.0-canary.15
+
+## 6.2.0-canary.14
+
+## 6.2.0-canary.13
+
 ## 6.2.0-canary.12
 
 ## 6.2.0-canary.11

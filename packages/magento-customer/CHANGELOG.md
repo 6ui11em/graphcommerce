@@ -1,5 +1,59 @@
 # Change Log
 
+## 6.2.0-canary.33
+
+## 6.2.0-canary.32
+
+## 6.2.0-canary.31
+
+## 6.2.0-canary.30
+
+### Patch Changes
+
+- [#1942](https://github.com/graphcommerce-org/graphcommerce/pull/1942) [`21b0d0c48`](https://github.com/graphcommerce-org/graphcommerce/commit/21b0d0c48603343c09f287978bf051140e9be912) - Customer's session is now revalidated when a previous session is detected on pageload, making sure the customer is still logged in. ([@paales](https://github.com/paales))
+
+## 6.2.0-canary.29
+
+## 6.2.0-canary.28
+
+## 6.2.0-canary.27
+
+## 6.2.0-canary.26
+
+## 6.2.0-canary.25
+
+## 6.2.0-canary.24
+
+## 6.2.0-canary.23
+
+## 6.2.0-canary.22
+
+## 6.2.0-canary.21
+
+## 6.2.0-canary.20
+
+## 6.2.0-canary.19
+
+## 6.2.0-canary.18
+
+## 6.2.0-canary.17
+
+## 6.2.0-canary.16
+
+### Patch Changes
+
+- [#1930](https://github.com/graphcommerce-org/graphcommerce/pull/1930) [`c8d023e9e`](https://github.com/graphcommerce-org/graphcommerce/commit/c8d023e9e874131cd9f8fe192b1fca5fe1a26ee3) - Fix the close menu on search and add the option to secondary menu items ([@StefanAngenent](https://github.com/StefanAngenent))
+
+## 6.2.0-canary.15
+
+### Minor Changes
+
+- [#1926](https://github.com/graphcommerce-org/graphcommerce/pull/1926) [`ab8877fdb`](https://github.com/graphcommerce-org/graphcommerce/commit/ab8877fdb6147960ce656d28306d719e92f6de68) - Made the follow order link in the order card & order details a working <Link /> if provided from magento backend. ([@JoshuaS98](https://github.com/JoshuaS98))
+
+## 6.2.0-canary.14
+
+## 6.2.0-canary.13
+
 ## 6.2.0-canary.12
 
 ## 6.2.0-canary.11
